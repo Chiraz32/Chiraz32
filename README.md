@@ -4,18 +4,6 @@
 📊 **Data Science Enthusiast** <br>
 🌍 **Based in Tunisia** 🇹🇳
 
-
-## About Me
-
-I'm a curious and passionate software engineering student diving into the world of data science. I love blending creativity with code to solve intriguing problems.
-
-- 🎓 Learning software engineering at university
-- 📊 Exploring data science and machine learning
-- 🌱 Continuously learning and experimenting
-
-## My Toolkit
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,7 +19,6 @@ I'm a curious and passionate software engineering student diving into the world 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![ReactTS](https://img.shields.io/badge/React-TS-007ACC?style=for-the-badge&logo=react&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 
@@ -44,8 +31,12 @@ I'm a curious and passionate software engineering student diving into the world 
 
 ## Let's Connect!
 
-- **LinkedIn:** [Chiraz DOSS](https://www.linkedin.com/in/chiraz-doss)
-- **Email:** doss.chiraz13@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiraz-doss)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doss.chiraz13@gmail.com)
 
 
-## Thanks for stopping by! It was nice meeting you! Have a great day! 👋
+<h2 align="center">
+  Thanks for stopping by! Have a great day! 👋
+</h2>
+
+
