@@ -13,8 +13,6 @@ I'm a curious and passionate software engineering student diving into the world 
 - 📊 Exploring data science and machine learning
 - 🌱 Continuously learning and experimenting
 
----
-
 ## My Toolkit
 
 
@@ -49,7 +47,5 @@ I'm a curious and passionate software engineering student diving into the world 
 - **LinkedIn:** [Chiraz DOSS](https://www.linkedin.com/in/chiraz-doss)
 - **Email:** doss.chiraz13@gmail.com
 
----
 
-### Thanks for stopping by! Feel free to reach out – let's create something awesome together!
-
+## Thanks for stopping by! It was nice meeting you! Have a great day! 👋
