@@ -30,9 +30,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiraz-doss)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doss.chiraz13@gmail.com)
 
-
-<h2 align="center">
-  Thanks for stopping by! Have a great day! 👋
-</h2>
-
-
