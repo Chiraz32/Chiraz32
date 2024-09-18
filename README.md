@@ -19,12 +19,6 @@
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
 
-## GitHub Stats
-
-![Chiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiraz32&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiraz32&layout=compact&theme=radical)
-
-
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiraz-doss)
