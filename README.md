@@ -1,7 +1,7 @@
 # Hey there! I'm Chiraz DOSS 👋
 
 👩‍💻 **Software Engineering Student** <br>
-📊 **Data Science and Machine Learning Enthusiast** <br>
+📊 **Data Science and Machine Learning Practitioner** <br>
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
