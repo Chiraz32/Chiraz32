@@ -2,7 +2,7 @@
 
 👩‍💻 **Software Engineering Student** <br>
 📊 **Data Science and Machine Learning Enthusiast** <br>
-🌍 **Based in Tunisia** 🇹🇳
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
